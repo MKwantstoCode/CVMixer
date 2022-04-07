@@ -1,6 +1,6 @@
-Hello! This is for my own learning experience only. Main focus was to get some object oriented programming going. 
+Hello! This is for my own learning experience only. The main focus was to get some object oriented programming going. 
 
-The programm scans a picture for some needle images and draws a green box arround it. I considered it a success and I will probaply 
+The program scans a picture for some needle images and draws a green box around it. I considered it a success and I will probaply 
 some day put some more work into it.
 
 The heavy lifting of the code was done by https://www.youtube.com/channel/UCD8vb6Bi7_K_78nItq5YITA (Learn by Code Gameing)
